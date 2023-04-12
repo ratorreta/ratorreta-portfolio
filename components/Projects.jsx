@@ -3,7 +3,7 @@ import yogaImg from "../public/assets/projects/yogaImg.png";
 import bookImg from "../public/assets/projects/bookImg.png";
 import jobifyImg from "../public/assets/projects/jobifyImg.png";
 import profileImg from "../public/assets/projects/profileImg.png"
-import ProjectItem from './ProjectItem.jsx';
+import ProjectItem from './ProjectItem';
 
 
 const Projects = () => {
