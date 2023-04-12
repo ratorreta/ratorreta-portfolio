@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import {AiOutlineClose, AiOutlineMail, AiOutlineMenu} from "react-icons/ai";
 import {FaLinkedin, FaGithub} from "react-icons/fa";
-import {BsFillPersonLinesFill} from "react-icons/bs"
+import {BsFillPersonLinesFill} from "react-icons/bs";
 
 
 

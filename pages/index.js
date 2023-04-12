@@ -1,11 +1,11 @@
 import React from 'react';
 import Head from 'next/head';
-import Navbar from '@/components/Navbar';
-import Main from '@/components/Main';
-import About from '@/components/About';
-import Skills from '@/components/Skills';
-import Projects from '@/components/Projects';
-import Contact from '@/components/Contact';
+import Navbar from '../components/Navbar.jsx';
+import Main from '../components/Main.jsx';
+import About from '../components/About.jsx';
+import Skills from '../components/Skills.jsx';
+import Projects from '../components/Projects.jsx';
+import Contact from '../components/Contact.jsx';
 
 export default function Home() {
   return (

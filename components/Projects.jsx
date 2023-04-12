@@ -1,9 +1,9 @@
 import React from 'react';
-import yogaImg from "../public/assets/projects/yogaImg.PNG";
-import bookImg from "../public/assets/projects/bookImg.PNG";
-import jobifyImg from "../public/assets/projects/jobifyImg.PNG";
-import profileImg from "../public/assets/projects/profileImg.PNG"
-import ProjectItem from './ProjectItem';
+import yogaImg from "../public/assets/projects/yogaImg.png";
+import bookImg from "../public/assets/projects/bookImg.png";
+import jobifyImg from "../public/assets/projects/jobifyImg.png";
+import profileImg from "../public/assets/projects/profileImg.png"
+import ProjectItem from './ProjectItem.jsx';
 
 
 const Projects = () => {
