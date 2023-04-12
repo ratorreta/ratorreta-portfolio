@@ -1,5 +1,5 @@
 import React from 'react';
-import justYogaImg from "../public/assets/projects/justYogaImg.PNG";
+import yogaImg from "../public/assets/projects/yogaImg.PNG";
 import bookImg from "../public/assets/projects/bookImg.PNG";
 import jobifyImg from "../public/assets/projects/jobifyImg.PNG";
 import profileImg from "../public/assets/projects/profileImg.PNG"
@@ -20,7 +20,7 @@ const Projects = () => {
 because this app utilizes a slider, drop down menu and carousel to
 select options. It is designed to be responsive to ensure optimal view
 using any device." 
-            bgImg={justYogaImg} 
+            bgImg={yogaImg} 
             tech="#React #ContextAPI #youtube-api-search"
             demoURL="https://justyoga.netlify.app" 
             codeURL="https://github.com/ratorreta/justyoga-app" />
