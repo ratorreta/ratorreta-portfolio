@@ -7,7 +7,7 @@ import {FaGithub} from "react-icons/fa";
 const ProjectItem = ({title, description, tech, bgImg, demoURL, codeURL}) => {
   return (
     <div className='relative flex items-center justify-center h-auto w-full shadow-xl shadow-gray-400 rounded-xl p-4 group hover:bg-gradient-to-r from-[#5651e5] to-[#709dff]'>
-        <Image className="rounded-xl group-hover:opacity-10" src={bgImg} alt='/' />
+        <Image className="rounded-xl group-hover:opacity-10" src={bgImg} alt='/' width={1300} height={900} />
         <div className='hidden group-hover:block w-[80%] h-auto absolute top-[5%] left-[50%] translate-x-[-50%] translate-y-[5%] lg:top-[25%]'>
             <h3 className='text-md md:text-lg lg:text-xl text-white tracking-wider text-center'>{title}</h3>
             <p className='text-sm md:text-md lg:text-md pb-4 pt-2 text-white text-justify'>{description}</p>
