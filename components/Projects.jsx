@@ -16,7 +16,7 @@ const Projects = () => {
 because this app utilizes a slider, drop down menu and carousel to
 select options. It is designed to be responsive to ensure optimal view
 using any device." 
-            bgImg="/../public/assets/projects/yogaImg.png" 
+            bgImg="/assets/projects/yogaImg.png" 
             tech="#React #ContextAPI #youtube-api-search"
             demoURL="https://justyoga.netlify.app" 
             codeURL="https://github.com/ratorreta/justyoga-app" />
@@ -25,7 +25,7 @@ using any device."
             description="The Book of Answers is a digital and online version of
 the book, 'The Book of Answers' by Carol Bolt. It works like
 a Magic 8 ball that is used for seeking advice." 
-            bgImg="/../public/assets/projects/bookImg.png"
+            bgImg="/assets/projects/bookImg.png"
             tech="#React #React-Router"
             demoURL="https://thebookofanswers.netlify.app" 
             codeURL="https://github.com/ratorreta/book-of-answers" />
@@ -33,7 +33,7 @@ a Magic 8 ball that is used for seeking advice."
             title="My Portfolio" 
             description="This is my personal website highlighting my skills and
 projects. My first project using Next.js and Tailwind CSS. " 
-            bgImg="/../public/assets/projects/profileImg.png"
+            bgImg="/assets/projects/profileImg.png"
             tech="#NextJS #TailwindCSS" 
             demoURL="/#projects" 
             codeURL="https://github.com/ratorreta/ratorreta-portfolio" />
@@ -41,7 +41,7 @@ projects. My first project using Next.js and Tailwind CSS. "
             title="Jobify (soon...)" 
             description="Jobify is a job tracking app that lets users monitor their
 job-hunting journey. This project is still a work in progress." 
-            bgImg="/../public/assets/projects/jobifyImg.png"
+            bgImg="/assets/projects/jobifyImg.png"
             tech="#React #MongoDB #NodeJS #Express" 
             demoURL="/#projects" 
             codeURL="/#projects" />
