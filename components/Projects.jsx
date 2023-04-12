@@ -23,24 +23,25 @@ using any device."
           <ProjectItem 
             title="The Book of Answers" 
             description="The Book of Answers is a digital and online version of
-the book, 'The Book of Answers' by Carol Bolt. It works like
-a Magic 8 ball that is used for seeking advice." 
+the book, 'The Book of Answers' by Carol Bolt. It works like a Magic 8 ball that is used for 
+seeking advice but has more answers." 
             bgImg="/assets/projects/bookImg.PNG"
             tech="#React #React-Router"
             demoURL="https://thebookofanswers.netlify.app" 
             codeURL="https://github.com/ratorreta/book-of-answers" />
              <ProjectItem 
             title="My Portfolio" 
-            description="This is my personal website highlighting my skills and
-projects. My first project using Next.js and Tailwind CSS. " 
+            description="This is my personal website highlighting my skills and projects. 
+            First project using Next.js and Tailwind CSS and deployed to Vercel." 
             bgImg="/assets/projects/profileImg.PNG"
             tech="#NextJS #TailwindCSS" 
             demoURL="/#projects" 
             codeURL="https://github.com/ratorreta/ratorreta-portfolio" />
           <ProjectItem 
             title="Jobify (soon...)" 
-            description="Jobify is a job tracking app that lets users monitor their
-job-hunting journey. This project is still a work in progress." 
+            description="Jobify is a job tracking app that helps users monitor their job application status. 
+            The app includes a dashboard summarizing each status and a graphical representation of monthly applications.
+            This project is a work in progress." 
             bgImg="/assets/projects/jobifyImg.PNG"
             tech="#React #MongoDB #NodeJS #Express" 
             demoURL="/#projects" 

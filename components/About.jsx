@@ -18,9 +18,11 @@ const About = () => {
                   The satisfaction of seeing a solution come to life is one of the best feelings in the world.
                   <br/><br/>I am confident that my strong foundation in problem-solving, critical thinking, and attention to detail will serve me well in the world of web development. 
                   I look forward to continuing to learn and explore this exciting field.
+                  <br/><br/>In my free time, I engage in a variety of activities that bring me joy and fulfillment. 
+                  I enjoy yoga, strumming the guitar, singing, reading, baking, and spending time with my dog Hobbes and loved ones.
                 </p>
                 <Link href="#projects">
-                  <p className='py-2 text-gray-600 underline cursor-pointer'>Check out my projects.</p>
+                  <p className='mt-2 py-2 text-gray-600 underline cursor-pointer'>Check out my projects.</p>
                 </Link>
             </div>
             <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>

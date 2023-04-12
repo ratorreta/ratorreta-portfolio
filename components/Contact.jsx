@@ -41,7 +41,7 @@ const Contact = () => {
                                     <a href='mailto:ratorreta@gmail.com?cc=roseanne.torreta@outlook.com' target='_blank'><AiOutlineMail/></a>
                                 </div>
                                 <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-default hover:scale-110 ease-in duration-300">
-                                    <a href="https://drive.google.com/file/d/1aaBNgLzklJrhNKhlJpNARG4-L3LSbHJ3/view?usp=share_link" target="_blank"><BsFillPersonLinesFill/></a>
+                                    <a href="https://drive.google.com/file/d/18RtDJkRClthYjCNvSyYHS4VKOJeKkD7A/view?usp=share_link" target="_blank"><BsFillPersonLinesFill/></a>
                                 </div>
                             </div>
                         </div>

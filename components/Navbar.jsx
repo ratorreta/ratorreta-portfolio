@@ -51,7 +51,7 @@ function Navbar() {
                         <Link href="/#contact">
                             <li className="ml-10 text-sm uppercase hover:border-b-2">Contact</li>
                         </Link>
-                        <Link href="https://drive.google.com/file/d/1aaBNgLzklJrhNKhlJpNARG4-L3LSbHJ3/view?usp=share_link" target="_blank">
+                        <Link href="https://drive.google.com/file/d/18RtDJkRClthYjCNvSyYHS4VKOJeKkD7A/view?usp=share_link" target="_blank">
                             <li className="ml-10 text-sm uppercase hover:scale-105 ease-in duration-300 p-1 bg-violet-300 rounded-md">Resume</li>
                         </Link>
                     </ul>
@@ -106,7 +106,7 @@ function Navbar() {
                                     <a href='mailto:ratorreta@gmail.com?cc=roseanne.torreta@outlook.com' target='_blank'><AiOutlineMail/></a>
                                 </div>
                                 <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-default hover:scale-105 ease-in duration-300">
-                                    <a href="https://drive.google.com/file/d/1aaBNgLzklJrhNKhlJpNARG4-L3LSbHJ3/view?usp=share_link" target="_blank"><BsFillPersonLinesFill/></a>
+                                    <a href="https://drive.google.com/file/d/18RtDJkRClthYjCNvSyYHS4VKOJeKkD7A/view?usp=share_link" target="_blank"><BsFillPersonLinesFill/></a>
                                 </div>
                             </div>
                         </div>
